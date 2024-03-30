@@ -1,3 +1,5 @@
 key.py
 venv/
 test/
+database.sqlite3
+test.py
